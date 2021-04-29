@@ -1,0 +1,33 @@
+$color-white: #fff;
+$color-grey: #ccc;
+
+$color-grey-light-1: #fafbfc;
+$color-grey-light-2: #f5f5f5;
+$color-grey-light-3: #d7dbdb;
+
+$color-grey-dark-1: #464c4f;
+$color-grey-dark-2: #3f4a51;
+
+$color-blue-1: #0e67ec;
+$color-blue-2: blue;
+
+$color-red: #f26c4f;
+$color-red-disable: #cb2431;
+
+$color-green-dark: #002a31;
+
+$color-green: #16aa56;
+$color-green-enable: #2ea44f;
+
+$alert-color-background: #fff0f0;
+$alert-color-border: #ffdbdb;
+$alert-color-text: #ff1e25;
+
+// width variables required for media queries
+$bp-largest: 75em;        // 1200px -> 1200/16 = 75
+$bp-large: 68.75em;       // 1100px
+$bp-largeSmall: 62.5em;   // 1000px
+$bp-mediumLarge: 56.25em; // 900px 
+$bp-medium: 50em;         // 800px
+$bp-small: 40.625em;        // 650px
+$bp-smallest: 31.25em;    // 500px
